@@ -3,7 +3,7 @@
 ## Build and run
 
 ```sh
-cd assignment6
+cd Majority_Voting
 make
 ./lab6
 ```
